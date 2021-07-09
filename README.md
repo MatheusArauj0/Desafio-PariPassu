@@ -20,3 +20,8 @@
 <p>No frontend você devera abrir um terminal dentro da pasta do frontend no projeto ou dentro do VSCode abrir um terminal e executar o comando "yarn"</p>
 <p>Isso irá fazer com que todas as dependências necessárias sejam importadas para o frontend</p>
 <p>Em seguida é só executar o comando "yarn start" e abrirá a aplicação no http://localhost:3000/</p>
+<h2>OBSERVAÇÃO:</h2>
+<p>O botão de recuperar senhas só terá efeito quando o servidor for reiniciado</p>
+<p>Por exemplo:<p/>
+<p>Tem 10 senhas na fila e o servidor é reiniciado, você devera clickar em recuperar senhas para voltar com as senhas que estavam na fila<p/>
+<p>Se for clickado em próxima senha antes de recuperar nada irá acontecer<p/>
