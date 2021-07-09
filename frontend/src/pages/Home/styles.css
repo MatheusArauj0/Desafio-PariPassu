@@ -1,0 +1,28 @@
+.div-client-img{
+    height: 100px;
+    width: 250px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+#client-button{
+    margin-top: 225px;     
+}
+
+h5 {
+    margin-left: 50px;
+}
+
+.div-manager-img{
+    height: 100px;
+    width: 250px;
+    margin-left: 85px;
+    
+}
+
+#manager-button{
+    padding: 15px;
+    margin-top: 185px;
+        
+}
+

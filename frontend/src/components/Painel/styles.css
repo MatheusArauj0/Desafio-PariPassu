@@ -1,0 +1,21 @@
+.senha-atual{
+    margin-top: 15px;
+    margin-left: 70px;
+}
+
+.proximas-senhas{
+    margin-top: 50px;
+}
+
+.span-senha{
+    display: flex;
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    background-color: #FFF;
+}
+
+.div-painel{
+    background-color: #E6E8EB;
+}
