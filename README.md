@@ -4,11 +4,12 @@
 <p>Para subir a api e o frontend você devera fazer um git clone na sua máquina ou baixar o projeto zipado e depois importar pra sua IDE.</p>
 <p>Foi usada a IDE Spring Suit Tools para o desenvolvimento do backend e VSCode para o frontend.</p>
 <p>Foi utilizado o postgres nessa aplicação, por favor deverá ser criado um banco e setar url, username, e password no applicantion-dev.properties</p>
-<p>OBS: A tabela será criada automaticamente quando startar a aplicação<p/>
 <p>como por exemplo:</p>
 <li>spring.datasource.url=jdbc:postgresql://localhost:5432/gerenciador-senhas</li>
 <li>spring.datasource.username=postgres</li>
 <li>spring.datasource.password=postgres</li>
+<br/>
+<p>OBS: A tabela será criada automaticamente quando startar a aplicação<p/>
 <br/>
 <p>Depois de importar o backend para a sua IDE e confirgurar o banco devera startar a aplicação como Spring Boot App.</p>
 <br/>
